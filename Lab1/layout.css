@@ -19,3 +19,39 @@ Header, Nav, Article, div, footer
     text-align: center;
 
 }
+
+header
+{
+   width: 100%;
+
+}
+
+footer
+{
+   width: 100%;
+
+}
+
+Nav
+{
+    width: 20%;
+    height: 200px;
+    float: left;
+
+}
+
+article
+{
+    width: 60%;
+    height: 200px;
+    float: left;
+
+}
+
+div
+{
+    width: 20%;
+    height: 200px;
+    float: left;
+
+}
