@@ -32,6 +32,8 @@ nav {
     width: 20%;
     height: 100vh;
     padding-top: 25px;
+    position: fixed;
+    top: 0px;
 }
 
 nav ul {
@@ -143,6 +145,7 @@ footer {
     background-color: #ffe066;
     padding: 10px;
     text-align: center;
+    clear: both;
 }
 
 footer p {
